@@ -8,5 +8,6 @@ This Rust project indexes POL token transactions on the Polygon network in real-
 2. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Kushagra-Stark-Wayne/new-project>
 cd polygon-netflow-indexer
+
