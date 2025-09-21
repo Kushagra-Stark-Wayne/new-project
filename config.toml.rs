@@ -2,11 +2,11 @@
 rpc_url = "wss://polygon-rpc.com"
 
 [token]
-pol_address = "0x0000000000000000000000000000000000001010"
+pol_address = "0x0000000000000000000000000000000000001010" //Taken a random pol_address, not mentioned in the task.
 
 [exchanges]
 binance = [
-    "0xF977814e90dA44bFA03b6295A0616a897441aceC",
+    "0xF977814e90dA44bFA03b6295A0616a897441aceC", //addresses given
     "0xe7804c37c13166fF0b37F5aE0BB07A3aEbb6e245",
     "0x505e71695E9bc45943c58adEC1650577BcA68fD9",
     "0x290275e3db66394C52272398959845170E4DCb88",
